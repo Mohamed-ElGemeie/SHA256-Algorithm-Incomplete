@@ -53,8 +53,8 @@ It includes 13 SHA256 Bitwise operations written as functions, and can only inta
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Download and install Python version 3.9.5.
-
+* Download and install Python version 3.9.5.
+* Download SHA256 Algorithm.py from the repository.
 ### Prerequisites
 
 * None
